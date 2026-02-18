@@ -5,7 +5,7 @@ This project demonstrates Object-Oriented Programming (OOPS) concepts and clean 
 
 ---
 
-## 📌 Features
+## Features
 
 - Multiple Choice Questions (MCQ)
 - Array of Objects Implementation
@@ -16,7 +16,7 @@ This project demonstrates Object-Oriented Programming (OOPS) concepts and clean 
 
 ---
 
-## 🧠 Concepts Used
+## Concepts Used
 
 - Classes & Objects
 - Constructors
@@ -27,7 +27,7 @@ This project demonstrates Object-Oriented Programming (OOPS) concepts and clean 
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 1. Clone the repository:
 
@@ -49,7 +49,7 @@ java Main
 
 ---
 
-## 🎯 Learning Purpose
+## Learning Purpose
 
 This project was built to understand:
 
@@ -59,6 +59,6 @@ This project was built to understand:
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 Suraj Kumar Yadav
